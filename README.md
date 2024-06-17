@@ -8,3 +8,7 @@ In this tutorial we can learn how to:</br>
 -Edge Detection</br>
 -Morphological techniques images</br>
 -Denoising images</br>
+-Face Detection</br>
+-Pencil Sketch Project</br>
+-Smothing Filters</br>
+-Corner Detction</br>
